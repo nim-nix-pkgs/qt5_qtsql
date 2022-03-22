@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-qt5_qtsql-1_0_1.flake = false;
+  inputs.src-qt5_qtsql-1_0_1.ref   = "refs/tags/1.0.1";
   inputs.src-qt5_qtsql-1_0_1.owner = "philip-wernersbach";
-  inputs.src-qt5_qtsql-1_0_1.ref   = "1_0_1";
   inputs.src-qt5_qtsql-1_0_1.repo  = "nim-qt5_qtsql.git";
   inputs.src-qt5_qtsql-1_0_1.type  = "github";
   
