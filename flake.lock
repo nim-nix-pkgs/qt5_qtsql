@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "0_7_0",
-        "lastModified": 1652791898,
-        "narHash": "sha256-mb6pyR+NefrAOh8a8FMYZpYOHJV0ZjsvtPtp/Ma4e9M=",
+        "lastModified": 1652797616,
+        "narHash": "sha256-oF/a9dh+QgIJXV7FOsVuQRRxHppQMFrKXWKWY1xXYKA=",
         "owner": "nim-nix-pkgs",
         "repo": "qt5_qtsql",
-        "rev": "8a39aa8b0c915181679bef24bb7bedd8acff7d8f",
+        "rev": "2dab01be809eaede41dde6c40413e8bc1e3e9234",
         "type": "github"
       },
       "original": {
@@ -71,11 +71,11 @@
       },
       "locked": {
         "dir": "1_0_0",
-        "lastModified": 1652791898,
-        "narHash": "sha256-mb6pyR+NefrAOh8a8FMYZpYOHJV0ZjsvtPtp/Ma4e9M=",
+        "lastModified": 1652797616,
+        "narHash": "sha256-oF/a9dh+QgIJXV7FOsVuQRRxHppQMFrKXWKWY1xXYKA=",
         "owner": "nim-nix-pkgs",
         "repo": "qt5_qtsql",
-        "rev": "8a39aa8b0c915181679bef24bb7bedd8acff7d8f",
+        "rev": "2dab01be809eaede41dde6c40413e8bc1e3e9234",
         "type": "github"
       },
       "original": {
@@ -98,11 +98,11 @@
       },
       "locked": {
         "dir": "1_0_1",
-        "lastModified": 1652791898,
-        "narHash": "sha256-mb6pyR+NefrAOh8a8FMYZpYOHJV0ZjsvtPtp/Ma4e9M=",
+        "lastModified": 1652797616,
+        "narHash": "sha256-oF/a9dh+QgIJXV7FOsVuQRRxHppQMFrKXWKWY1xXYKA=",
         "owner": "nim-nix-pkgs",
         "repo": "qt5_qtsql",
-        "rev": "8a39aa8b0c915181679bef24bb7bedd8acff7d8f",
+        "rev": "2dab01be809eaede41dde6c40413e8bc1e3e9234",
         "type": "github"
       },
       "original": {
@@ -125,11 +125,11 @@
       },
       "locked": {
         "dir": "1_0_2",
-        "lastModified": 1652791898,
-        "narHash": "sha256-mb6pyR+NefrAOh8a8FMYZpYOHJV0ZjsvtPtp/Ma4e9M=",
+        "lastModified": 1652797616,
+        "narHash": "sha256-oF/a9dh+QgIJXV7FOsVuQRRxHppQMFrKXWKWY1xXYKA=",
         "owner": "nim-nix-pkgs",
         "repo": "qt5_qtsql",
-        "rev": "8a39aa8b0c915181679bef24bb7bedd8acff7d8f",
+        "rev": "2dab01be809eaede41dde6c40413e8bc1e3e9234",
         "type": "github"
       },
       "original": {
@@ -152,11 +152,11 @@
       },
       "locked": {
         "dir": "1_0_3",
-        "lastModified": 1652791898,
-        "narHash": "sha256-mb6pyR+NefrAOh8a8FMYZpYOHJV0ZjsvtPtp/Ma4e9M=",
+        "lastModified": 1652797616,
+        "narHash": "sha256-oF/a9dh+QgIJXV7FOsVuQRRxHppQMFrKXWKWY1xXYKA=",
         "owner": "nim-nix-pkgs",
         "repo": "qt5_qtsql",
-        "rev": "8a39aa8b0c915181679bef24bb7bedd8acff7d8f",
+        "rev": "2dab01be809eaede41dde6c40413e8bc1e3e9234",
         "type": "github"
       },
       "original": {
@@ -179,11 +179,11 @@
       },
       "locked": {
         "dir": "1_1_0",
-        "lastModified": 1652791898,
-        "narHash": "sha256-mb6pyR+NefrAOh8a8FMYZpYOHJV0ZjsvtPtp/Ma4e9M=",
+        "lastModified": 1652797616,
+        "narHash": "sha256-oF/a9dh+QgIJXV7FOsVuQRRxHppQMFrKXWKWY1xXYKA=",
         "owner": "nim-nix-pkgs",
         "repo": "qt5_qtsql",
-        "rev": "8a39aa8b0c915181679bef24bb7bedd8acff7d8f",
+        "rev": "2dab01be809eaede41dde6c40413e8bc1e3e9234",
         "type": "github"
       },
       "original": {
@@ -206,11 +206,11 @@
       },
       "locked": {
         "dir": "1_1_1",
-        "lastModified": 1652791898,
-        "narHash": "sha256-mb6pyR+NefrAOh8a8FMYZpYOHJV0ZjsvtPtp/Ma4e9M=",
+        "lastModified": 1652797616,
+        "narHash": "sha256-oF/a9dh+QgIJXV7FOsVuQRRxHppQMFrKXWKWY1xXYKA=",
         "owner": "nim-nix-pkgs",
         "repo": "qt5_qtsql",
-        "rev": "8a39aa8b0c915181679bef24bb7bedd8acff7d8f",
+        "rev": "2dab01be809eaede41dde6c40413e8bc1e3e9234",
         "type": "github"
       },
       "original": {
@@ -233,11 +233,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652791898,
-        "narHash": "sha256-mb6pyR+NefrAOh8a8FMYZpYOHJV0ZjsvtPtp/Ma4e9M=",
+        "lastModified": 1652797616,
+        "narHash": "sha256-oF/a9dh+QgIJXV7FOsVuQRRxHppQMFrKXWKWY1xXYKA=",
         "owner": "nim-nix-pkgs",
         "repo": "qt5_qtsql",
-        "rev": "8a39aa8b0c915181679bef24bb7bedd8acff7d8f",
+        "rev": "2dab01be809eaede41dde6c40413e8bc1e3e9234",
         "type": "github"
       },
       "original": {
